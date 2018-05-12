@@ -6,7 +6,7 @@
    - sort the input using merg sort
    - sort the input using quick sort
    - sort the input using Heap sort
-   - sort the input using Count sort
+   - sort the input using Count sort [any non-positive number will be ignored]
 
 #### The program working with input & output files in the next pathes:
 ```
