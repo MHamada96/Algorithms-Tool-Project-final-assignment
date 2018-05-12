@@ -1,8 +1,8 @@
 # Algorithms-Tool-Project-final-assignment-
 
 ### This tool provide the next choices
-   - Read From And Write to file");
-   - Binary Search");
+   - Read From And Write to file
+   - Binary Search
    - sort the input using merg sort
    - sort the input using quick sort
    - sort the input using Heap sort
