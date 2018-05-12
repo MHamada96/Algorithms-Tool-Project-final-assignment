@@ -1,0 +1,27 @@
+F:\C_Sh\DevAssign\DevAssign\bin\Debug\DevAssign.exe.config
+F:\C_Sh\DevAssign\DevAssign\bin\Debug\DevAssign.exe
+F:\C_Sh\DevAssign\DevAssign\bin\Debug\DevAssign.pdb
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.csprojResolveAssemblyReference.cache
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.Properties.Resources.resources
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.csproj.GenerateResource.Cache
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.exe
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.pdb
+F:\C_Sh\DevAssign\DevAssign\obj\Debug\DevAssign.MainPage.resources
+F:\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.exe.config
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.exe
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.pdb
+F:\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.exe
+F:\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.pdb
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.csprojResolveAssemblyReference.cache
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.MainPage.resources
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.Properties.Resources.resources
+F:\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.csproj.GenerateResource.Cache
+D:\others\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.exe.config
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.exe
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.pdb
+D:\others\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.exe
+D:\others\C_Sh\Algorithm Assignment\DevAssign\bin\Debug\DevAssign.pdb
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.csprojResolveAssemblyReference.cache
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.MainPage.resources
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.Properties.Resources.resources
+D:\others\C_Sh\Algorithm Assignment\DevAssign\obj\Debug\DevAssign.csproj.GenerateResource.Cache
